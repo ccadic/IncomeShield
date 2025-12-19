@@ -2,6 +2,8 @@
 
 # Backtest GUI — BDC + Covered Call + Risk-Off (Yahoo sans yfinance)
 
+<img src="income20251219_151138.png">
+
 Ce projet est un **outil de backtest en Python (GUI Tkinter)** conçu pour simuler un **portefeuille US orienté rendement** combinant :
 
 - **BDC** (Business Development Companies : crédit privé, sensible au cycle)
